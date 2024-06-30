@@ -14,9 +14,7 @@ This project is divided into five parts, with the first part focusing on setting
 4. [Creating Your First Intent](#creating-your-first-intent)
 5. [Managing FallbackIntent](#managing-fallbackintent)
 6. [Clean Up Resources](#clean-up-resources)
-7. [Documentation](#documentation)
-8. [Sharing Your Work](#sharing-your-work)
-9. [Acknowledgments](#acknowledgments)
+7. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -76,21 +74,6 @@ To avoid any charges, make sure to delete your BankerBot:
 2. Select **Bots** on the left-hand sidebar.
 3. Choose **BankerBot** and select **Delete** from the Action drop-down.
 
-## Documentation
-
-Ensure you document your project properly:
-
-1. Replace the icons with your name, profile picture, and GitHub account name in the documentation template.
-2. Summarize your experience in the "What is Amazon Lex?" slide.
-3. Highlight key learnings in the "My Key Learnings" slide.
-4. Share any final thoughts in the "Final thoughts" slide.
-
-## Sharing Your Work
-
-Share your project with the community:
-
-1. Upload your PDF documentation to the NextWork community.
-2. Share your work on LinkedIn with the provided pre-filled post and attach your documentation.
 
 ## Acknowledgments
 
